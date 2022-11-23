@@ -1,1 +1,2 @@
 #reference "../../shaders/crt-pi-curvature-vertical.glslp"
+SCANLINE_WEIGHT = "3.000000"
